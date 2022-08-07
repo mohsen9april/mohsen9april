@@ -28,8 +28,8 @@ Developer
 
 <a href="https://twitter.com/IchBinMohsen" target="_blank" rel="noreferrer">
             <img src="https://img.shields.io/twitter/follow/IchBinMohsen?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
-                </a><a href="https://www.github.com/badrnezhad" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/badrnezhad?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+                </a><a href="https://github.com/mohsen9april" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/mohsen9april?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
 ### Skills
 <p align="left">
