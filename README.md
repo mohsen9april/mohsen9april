@@ -27,7 +27,7 @@ Developer
 *   🤝  I'm open to collaborating on interesting projects as a web developer
 
 <a href="https://twitter.com/IchBinMohsen" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/badrnezhad?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                  src="https://img.shields.io/twitter/follow/Mohsen_Abdollahi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/badrnezhad" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/badrnezhad?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
