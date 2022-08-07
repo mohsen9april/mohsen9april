@@ -24,6 +24,7 @@ Developer
 
 <!-- *   🖥️  See my portfolio at [badrnezhad.com](https://badrnezhad.com) -->
 *   🚀  I'm currently working on [Mehraeinpars](http://mehraeinpars.com)
+*   🌱  I’m currently learning ReactJs
 *   🤝  I'm open to collaborating on interesting projects as a web developer
 
 <a href="https://twitter.com/IchBinMohsen" target="_blank" rel="noreferrer">
