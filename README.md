@@ -27,9 +27,7 @@ Developer
 *   🌱  I’m currently learning ReactJs
 *   🤝  I'm open to collaborating on interesting projects as a web developer
 
-<a href="https://twitter.com/IchBinMohsen" target="_blank" rel="noreferrer">
-            <img src="https://img.shields.io/twitter/follow/IchBinMohsen?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
-                </a><a href="https://github.com/mohsen9april" target="_blank" rel="noreferrer"><img
+<a href="https://github.com/mohsen9april" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/mohsen9april?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
 ### Skills
