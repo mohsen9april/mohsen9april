@@ -1,4 +1,3 @@
-Here is your updated GitHub overview without OpenCV:
 
 ---
 
