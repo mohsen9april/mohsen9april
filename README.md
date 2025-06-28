@@ -7,7 +7,7 @@ My name is **Mohsen Abdollahi**
 
 * 🚀 AI Master’s student, Product Manager, and Content Creator with a passion for learning and problem-solving. 
 * 🌱 Mastering Python and libraries like TensorFlow, PyTorch for AI applications  
-* 🤝 Open to collaborating on AI projects and research initiatives  
+* 🤝 Open to collaborating on AI projects and research initiatives
 
 
 ### Skills
@@ -25,6 +25,9 @@ My name is **Mohsen Abdollahi**
 ![Mohsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsen9april&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsen9april&layout=compact&theme=radical)
+
+![3D Profile Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohsen9april&theme=dark)
+
 
 ### 🏆 Achievements
 
